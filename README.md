@@ -1,0 +1,2 @@
+# golang
+Gelang+GenAI course
